@@ -1,4 +1,4 @@
-# salesananalysis
+# VideoGameAnanalysis
 Sales analysis of video game sales data using R
 
 This code uses various R libraries in order to create 
